@@ -6,6 +6,7 @@
 ## Data
 
 - 대학원 졸업논문에 사용한 IPO 관련 뉴스 기사 데이터
+- 금융 뉴스 문장 감성 분석 데이터셋([출처](https://github.com/ukairia777/finance_sentiment_corpus))
 
 ### 기간
 
