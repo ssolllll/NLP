@@ -21,7 +21,8 @@
 - QA(Question Answering)
 - Text Generation
 
-## 트라이하고 있는 NLP Task
+## 트라이하고 있는 NLP Task & 업데이트할 내용
 
 - 업로드된 Task도 성능 개선을 위해 계속 업데이트 예정.
 - Text Summarization
+- NLP 관련 개념 및 
