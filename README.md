@@ -15,14 +15,19 @@
 
 ## NLP Task
 
-- NER(Named Entity Recognition)
-- News Classification
-- Sentiment Analysis
-- QA(Question Answering)
-- Text Generation
+- Text Generation(텍스트 생성)
+- Language Translation(기계 번역)
+- Text Summarization(요약)
+- Question-Answering(질의응답)
+- Chatbot(대화 시스템)
+- Text Classification(문서 분류)
+- Sentiment Analysis(감성 분석)
+- Text Summarization(자동 요약)
+- Information Extraction(정보 추출)
+- Named Entity Recognition(개체명 인식)
 
 ## 트라이하고 있는 NLP Task & 업데이트할 내용
 
 - 업로드된 Task도 성능 개선을 위해 계속 업데이트 예정.
 - Text Summarization
-- NLP 관련 개념 및 
+- NLP 관련 개념 및 etc.
