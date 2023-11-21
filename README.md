@@ -31,3 +31,5 @@
 - 업로드된 Task도 성능 개선을 위해 계속 업데이트 예정.
 - Text Summarization
 - NLP 관련 개념 및 etc.
+
+## Changing the Jupyter Notebook file to py file(11.21)
