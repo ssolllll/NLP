@@ -39,19 +39,41 @@
 # 구조
 📦NLP <br>
  ┣ 📂PEFT <br>
- ┃  ┣ 📜bbbb.py <br>
- ┃  ┣ 📜bbbb.py <br>
- ┃  ┣ 📜bbbb.py <br>
- ┃  ┣ 📜bbbb.py <br>
- ┃  ┣ 📜bbbb.py <br>
- ┃  ┣ 📜bbbb.py <br>
- ┗  ┗ 📜bbbb.py <br>
+ ┃  ┣ 📜Concept.md <br>
+ ┃  ┣ 📜PEFT_Bloom_tag.ipynb <br>
+ ┃  ┣ 📜README.md <br>
+ ┃  ┣ 📜T5_LoRA_tutorial.ipynb <br>
  ┣ 📂RAG <br>
  ┣ 📂RLHF <br>
+ ┃  ┣ 📜README.md <br>
  ┣ 📂NLP_Task <br>
+ ┃  ┣  📂Chatbot <br>
+ ┃  ┣  ┗ 📜BART_chatbot_tuning_V3.ipynb <br>
+ ┃  ┣  ┗ 📜Chatbot_tuning_V2.ipynb <br>
+ ┃  ┣  ┗ 📜Chatbot_tuning.ipynb <br>
+ ┃  ┣  📂NER <br>
+ ┃  ┣  ┗ 📜NER_practice_v1.ipynb <br>
+ ┃  ┣  ┗ 📜NER_practice_v2.ipynb <br>
+ ┃  ┣  ┗ 📜NER_practice_v3.ipynb <br>
+ ┃  ┣  📂Question_Answering <br>
+ ┃  ┣  ┗ 📜korquad_preprocessing.py <br>
+ ┃  ┣  ┗ 📜Question_Answering_v1.ipynb <br>
+ ┃  ┣  ┗ 📜Question_Answering_v2_KorQuad.ipynb <br>
+ ┃  ┣  📂Sentiment_Classification <br>
+ ┃  ┣  ┗ 📜GPT2_Classification_by_tpu.ipynb <br>
+ ┃  ┣  ┗ 📜Kobert_v1.ipynb <br>
+ ┃  ┣  ┗ 📜Kobert_v2.ipynb <br>
+ ┃  ┣  ┗ 📜transformer_sentiment_analysis.ipynb <br>
  ┃  ┣  📂Summarization <br>
+ ┃  ┣  ┗ 📜Summarization_Data_preprocessing.ipynb <br>
  ┃  ┣  ┗ 📜summarization.py <br>
- ┃  ┣ 📂bbbb.py<br>
+ ┃  ┣  ┗ 📜Text_summarization.ipynb <br>
+ ┃  ┣ 📂Text Generation <br>
+ ┃  ┣  ┗ 📜GPT2_Text_Generation.ipynb <br>
+ ┃  ┣ 📂Translation <br>
+ ┃  ┣  ┗ 📜Text_Translation_Data_preprocessing.ipynb <br>
+ ┃  ┣  ┗ 📜Text_Translation_kor_en.ipynb <br>
+ ┃  ┣  ┗ 📜translation_train.py <br>
  ┣ 📂etc  <br>
  ┃  ┣  ┗ 📜Basic Concepts for NLP.py <br>
  ┃  ┣  ┗ 📜Code Analysis for NLP.py <br>
